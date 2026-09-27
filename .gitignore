@@ -1,0 +1,6 @@
+.env
+save.json
+settings.json
+game.log
+__pycache__/
+*.pyc
